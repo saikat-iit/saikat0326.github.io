@@ -39,11 +39,11 @@ $(document).ready(function(){
     });
 
     $(".logo").click(function(){
-        //location.replace("https://www.saikat.in")
+        location.replace("https://www.saikat.in")
     });
 
     $(".instagram").click(function(){
-        //location.replace("https://instagram.com/saikat._")
+        location.replace("https://instagram.com/saikat._")
     });
 
     $(".home-btn").click(function(){
